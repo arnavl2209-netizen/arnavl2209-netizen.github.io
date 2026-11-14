@@ -1,1 +1,9 @@
 
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.arnavl2209_netizen.twa",
+        "sha256_cert_fingerprints": ["F6:33:D7:C1:E5:41:B0:FA:0D:69:28:0E:C4:F8:F4:D1:39:15:DA:C3:81:AB:B3:B1:31:30:73:24:84:8F:C2:A0"]
+      }
+    }]
